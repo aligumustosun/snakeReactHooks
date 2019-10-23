@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
-import SnakeBoard from './SnakeBoard';
+import SnakeBoard from './SnakeBoard.js';
 
 function App() {
   return (
     <div className="App">
-
       <SnakeBoard/>
     </div>
   );
